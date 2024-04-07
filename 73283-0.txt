@@ -580,7 +580,7 @@ Howitzers.
 
 _AMMUNITION for Field Artillery._
 
-    _A proportion of Ammunition and Stores far each
+    _A proportion of Ammunition and Stores for each
        Nature of Field Ordnance, viz. 1 Med. 12 Pr.[1]—1
        heavy 6 Pr.—2 light 6 Prs. as they are always
        attached to Battalions of Infantry—and one 5½
@@ -8400,6 +8400,7 @@ elm.
                             limber the shafts and bars of ash.
 
 THE END.
+
 
 
 
